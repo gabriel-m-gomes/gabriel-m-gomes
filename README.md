@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-macedo-gomes/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521987886353)
+[![Gmail](https://img.shields.io/badge/gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)]
 
 <a href="https://github.com/gabriel-m-gomes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriel-m-gomes&show_icons=true&count_private=true&theme=radical"/>
